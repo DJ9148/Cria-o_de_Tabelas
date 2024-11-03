@@ -1,0 +1,1 @@
+Esta é uma atividade proposta no meu curso técnico que envolve a criação de tabelas. Uma das ideias era desenvolver uma pequena interface na linha de comando para facilitar a criação, edição e exclusão de tabelas em um banco de dados, simplificando a interação com os comandos do MySQL.
